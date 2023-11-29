@@ -1,0 +1,53 @@
+html {
+  background-image: url("img/abstract-digital-grid-black-background_53876-97647.avif");
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+h2 {
+  margin-top: 50px;
+  color: rgb(0, 0, 0);
+}
+
+.Red {
+  color: rgb(0, 0, 0);
+}
+
+.Purple {
+  color: rgb(132, 0, 255);
+}
+
+.Blue {
+  color: rgb(25, 0, 255);
+}
+
+.Green {
+  color: #15ff00;
+}
+
+a {
+  color: rgb(0, 88, 27);
+}
+
+A:hover {
+  font-weight: bold;
+}
